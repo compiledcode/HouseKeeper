@@ -7,7 +7,7 @@ successfully embed Python 3.8 into C++-17
 
 # The jump to the next project will add the following onto this project
 
-- We will need an embedded web server to proxy to from Apache/Nginx
+- Embedded web server to proxy to from Apache/Nginx
 - Sqlite3 for internal log (history) bookkeeping
 - gRPC for communication with peers
 
