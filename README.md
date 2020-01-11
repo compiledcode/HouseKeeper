@@ -11,4 +11,12 @@ successfully embed Python 3.8 into C++-17
 - Sqlite3 for internal log (history) bookkeeping
 - gRPC for communication with peers
 
-
+# TODOs
+- SMTP
+- SQLITE
+- pdf docs
+- mongoose
+- documentation
+- svg
+- texting
+- 3x connection, replication
